@@ -1,4 +1,4 @@
-Hey 👋, Welcome to My Github Zone!
+<p align="center">Hey 👋, Welcome to My Github Zone!</p>
 🧑‍💻 Full-Stack Web Developer
 🚀 Building intelligent web applications with Next.js, TypeScript, and the MERN stack. 
 🧠 Currently mastering TypeScript and Next.js for a professional transition.
